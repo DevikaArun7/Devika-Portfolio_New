@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import '../Core/Constants/app_colors.dart';
 import '../widgets/navbar.dart';
-import '../widgets/sections/hero_section.dart';
-import '../widgets/sections/projects_section.dart';
-import '../widgets/sections/about_section.dart';
-import '../widgets/sections/skills_section.dart';
-import '../widgets/sections/experience_section.dart';
-import '../widgets/sections/education_section.dart';
-import '../widgets/sections/contact_section.dart';
+import '../widgets/Sections/hero_section.dart';
+import '../widgets/Sections/projects_section.dart';
+import '../widgets/Sections/about_section.dart';
+import '../widgets/Sections/skills_section.dart';
+import '../widgets/Sections/experience_section.dart';
+import '../widgets/Sections/education_section.dart';
+import '../widgets/Sections/contact_section.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
