@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
-import '../../core/constants/app_colors.dart';
-import '../../data/projects.dart';
-import '../../models/project_model.dart';
+import '../../Core/Constants/app_colors.dart';
+import '../../Data/projects.dart';
+import '../../Models/project_model.dart';
 
 class ProjectsSection extends StatelessWidget {
   const ProjectsSection({super.key});

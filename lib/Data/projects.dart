@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models/project_model.dart';
+import '../Models/project_model.dart';
 
 class ProjectsData {
   static const List<ProjectModel> projects = [
